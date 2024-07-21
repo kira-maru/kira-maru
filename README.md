@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @kira-maru
 - 👀 I’m interested in gaming, AI and otaku/nerdy stuff
-- 🌱 I’m currently learning Python (begginer)
-- 💞️ It would be nice to get in touch with people
-      who are constantly trying to improve their
-      programming skills and are keen on sharing
-      their knowledge...!
+- 🌱 I’m currently learning Python (beginner)
+- 💞️ I'm still kinda new to all of this,
+      but it would be nice to get in touch with people
+      and do some fun projects I guess 🤭
 - 📫 How to reach me: discord - #kiramarukami
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: cringe level 999999
